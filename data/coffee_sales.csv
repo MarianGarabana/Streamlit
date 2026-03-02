@@ -1,0 +1,73 @@
+date,city,product,units_sold,revenue,temperature_c
+2024-01-05,Madrid,Espresso,45,135.00,8
+2024-01-05,Madrid,Latte,62,248.00,8
+2024-01-05,Madrid,Cappuccino,38,152.00,8
+2024-01-05,Madrid,Iced Coffee,10,35.00,8
+2024-01-05,Barcelona,Espresso,52,156.00,11
+2024-01-05,Barcelona,Latte,70,280.00,11
+2024-01-05,Barcelona,Cappuccino,44,176.00,11
+2024-01-05,Barcelona,Iced Coffee,15,52.50,11
+2024-01-05,Valencia,Espresso,30,90.00,12
+2024-01-05,Valencia,Latte,41,164.00,12
+2024-01-05,Valencia,Cappuccino,28,112.00,12
+2024-01-05,Valencia,Iced Coffee,12,42.00,12
+2024-02-10,Madrid,Espresso,48,144.00,10
+2024-02-10,Madrid,Latte,65,260.00,10
+2024-02-10,Madrid,Cappuccino,40,160.00,10
+2024-02-10,Madrid,Iced Coffee,14,49.00,10
+2024-02-10,Barcelona,Espresso,55,165.00,13
+2024-02-10,Barcelona,Latte,73,292.00,13
+2024-02-10,Barcelona,Cappuccino,47,188.00,13
+2024-02-10,Barcelona,Iced Coffee,20,70.00,13
+2024-02-10,Valencia,Espresso,33,99.00,14
+2024-02-10,Valencia,Latte,44,176.00,14
+2024-02-10,Valencia,Cappuccino,30,120.00,14
+2024-02-10,Valencia,Iced Coffee,16,56.00,14
+2024-03-15,Madrid,Espresso,50,150.00,15
+2024-03-15,Madrid,Latte,60,240.00,15
+2024-03-15,Madrid,Cappuccino,42,168.00,15
+2024-03-15,Madrid,Iced Coffee,22,77.00,15
+2024-03-15,Barcelona,Espresso,58,174.00,17
+2024-03-15,Barcelona,Latte,68,272.00,17
+2024-03-15,Barcelona,Cappuccino,50,200.00,17
+2024-03-15,Barcelona,Iced Coffee,30,105.00,17
+2024-03-15,Valencia,Espresso,36,108.00,18
+2024-03-15,Valencia,Latte,48,192.00,18
+2024-03-15,Valencia,Cappuccino,34,136.00,18
+2024-03-15,Valencia,Iced Coffee,25,87.50,18
+2024-04-20,Madrid,Espresso,47,141.00,19
+2024-04-20,Madrid,Latte,55,220.00,19
+2024-04-20,Madrid,Cappuccino,38,152.00,19
+2024-04-20,Madrid,Iced Coffee,35,122.50,19
+2024-04-20,Barcelona,Espresso,54,162.00,21
+2024-04-20,Barcelona,Latte,63,252.00,21
+2024-04-20,Barcelona,Cappuccino,45,180.00,21
+2024-04-20,Barcelona,Iced Coffee,42,147.00,21
+2024-04-20,Valencia,Espresso,34,102.00,22
+2024-04-20,Valencia,Latte,45,180.00,22
+2024-04-20,Valencia,Cappuccino,32,128.00,22
+2024-04-20,Valencia,Iced Coffee,38,133.00,22
+2024-05-18,Madrid,Espresso,44,132.00,24
+2024-05-18,Madrid,Latte,50,200.00,24
+2024-05-18,Madrid,Cappuccino,35,140.00,24
+2024-05-18,Madrid,Iced Coffee,52,182.00,24
+2024-05-18,Barcelona,Espresso,51,153.00,25
+2024-05-18,Barcelona,Latte,58,232.00,25
+2024-05-18,Barcelona,Cappuccino,42,168.00,25
+2024-05-18,Barcelona,Iced Coffee,60,210.00,25
+2024-05-18,Valencia,Espresso,32,96.00,26
+2024-05-18,Valencia,Latte,42,168.00,26
+2024-05-18,Valencia,Cappuccino,30,120.00,26
+2024-05-18,Valencia,Iced Coffee,48,168.00,26
+2024-06-22,Madrid,Espresso,40,120.00,30
+2024-06-22,Madrid,Latte,45,180.00,30
+2024-06-22,Madrid,Cappuccino,30,120.00,30
+2024-06-22,Madrid,Iced Coffee,70,245.00,30
+2024-06-22,Barcelona,Espresso,48,144.00,28
+2024-06-22,Barcelona,Latte,52,208.00,28
+2024-06-22,Barcelona,Cappuccino,38,152.00,28
+2024-06-22,Barcelona,Iced Coffee,75,262.50,28
+2024-06-22,Valencia,Espresso,30,90.00,29
+2024-06-22,Valencia,Latte,38,152.00,29
+2024-06-22,Valencia,Cappuccino,26,104.00,29
+2024-06-22,Valencia,Iced Coffee,62,217.00,29

@@ -1,0 +1,501 @@
+neighborhood,property_type,area_sqm,bedrooms,bathrooms,year_built,has_parking,condition,energy_rating,price_eur,price_per_sqm
+Waterfront,House,162,3,1,1985,True,Good,D,941300,5810
+University District,Studio,31,1,1,1965,True,Good,B,113700,3668
+Old Town,Apartment,105,2,1,1963,True,Fair,E,306800,2922
+University District,Studio,43,1,1,2003,True,Excellent,D,138700,3226
+University District,Apartment,74,2,1,2010,True,Good,D,209600,2832
+Suburbs,Apartment,107,2,1,1988,True,Good,C,360100,3365
+Old Town,Penthouse,148,3,2,2018,False,Excellent,D,912400,6165
+Old Town,Apartment,55,1,1,2020,False,Fair,A,187900,3416
+Old Town,Apartment,52,1,1,1993,False,Good,D,176800,3400
+University District,Penthouse,207,4,2,1976,True,Good,A,1198000,5787
+Waterfront,Penthouse,122,2,1,2002,True,Excellent,D,1316000,10787
+Old Town,House,216,4,3,2002,False,Good,E,852400,3946
+University District,House,72,1,1,2012,True,Good,B,296000,4111
+Suburbs,House,214,5,3,1975,True,Fair,B,578600,2704
+Waterfront,Apartment,89,1,1,1961,True,Excellent,D,547000,6146
+Suburbs,Apartment,83,1,1,1993,False,Good,B,218500,2633
+Waterfront,House,130,2,1,2014,False,Good,D,664200,5109
+University District,Studio,49,1,1,1967,True,Fair,B,157600,3216
+Downtown,Studio,45,1,1,1972,True,Good,B,205700,4571
+Waterfront,Studio,57,2,1,2001,False,Fair,E,217900,3823
+Suburbs,Apartment,87,1,1,1967,True,Fair,D,181400,2085
+University District,House,156,3,2,1989,False,Fair,D,467700,2998
+Waterfront,Apartment,77,1,1,1991,False,Good,C,392500,5097
+Downtown,House,148,4,2,1995,False,Good,D,724500,4895
+Downtown,House,162,3,2,2006,True,Fair,C,665900,4110
+Old Town,Studio,26,1,1,1989,True,Needs Renovation,C,68000,2615
+Old Town,Apartment,56,1,1,1960,True,Fair,D,163800,2925
+Suburbs,Apartment,101,2,1,2002,False,Good,C,281100,2783
+Waterfront,Apartment,89,2,1,1998,False,Good,C,447400,5027
+Waterfront,Studio,43,1,1,1976,True,Good,B,225100,5235
+Old Town,House,151,3,2,2018,True,Fair,D,574800,3807
+Waterfront,Apartment,92,2,1,1979,False,Good,B,502300,5460
+Waterfront,Apartment,74,2,1,1983,False,Good,D,399000,5392
+Downtown,Studio,36,2,2,2009,False,Fair,B,145000,4028
+Old Town,Apartment,89,2,1,1981,True,Good,C,338000,3798
+University District,Studio,34,1,1,1988,True,Fair,D,99400,2924
+Old Town,Studio,50,1,1,1981,False,Good,B,194400,3888
+University District,Apartment,49,2,1,2003,False,Good,A,192100,3920
+Downtown,Apartment,107,2,1,1968,True,Good,B,482700,4511
+Suburbs,Penthouse,201,5,3,1996,True,Fair,C,744200,3702
+Waterfront,Apartment,90,2,1,1969,True,Excellent,D,530500,5894
+Downtown,Apartment,106,2,1,1995,True,Good,A,582400,5494
+Waterfront,Studio,64,2,1,1996,True,Needs Renovation,D,229200,3581
+Suburbs,Penthouse,226,5,4,1987,False,Good,C,945500,4184
+Suburbs,Penthouse,97,2,1,2023,True,Good,C,499800,5153
+Downtown,Studio,31,1,1,1987,False,Good,E,121200,3910
+Suburbs,Apartment,72,1,1,2001,True,Good,C,217700,3024
+University District,Apartment,86,1,1,2022,False,Fair,C,246900,2871
+Suburbs,Studio,51,1,1,2002,False,Good,A,186500,3657
+Waterfront,House,123,2,1,1980,True,Good,A,717400,5833
+Waterfront,House,157,3,2,1983,True,Good,B,928800,5916
+Waterfront,Penthouse,146,3,2,2001,True,Fair,A,1108600,7593
+Waterfront,Apartment,72,2,1,2019,True,Excellent,C,424400,5894
+University District,House,97,1,1,1999,False,Good,C,359400,3705
+Old Town,Apartment,65,1,1,1961,False,Good,C,234000,3600
+Downtown,House,99,2,1,2014,True,Good,B,531900,5373
+Waterfront,Apartment,64,1,1,1967,True,Good,B,369300,5770
+Suburbs,Apartment,107,2,1,2007,True,Good,D,355400,3321
+Waterfront,Apartment,65,2,1,1986,False,Fair,E,277200,4265
+Suburbs,House,249,4,3,1981,True,Good,A,811300,3258
+Suburbs,Studio,51,2,1,1996,True,Needs Renovation,D,115100,2257
+Waterfront,House,157,3,2,1986,False,Needs Renovation,C,545900,3477
+University District,Penthouse,141,3,2,2016,False,Good,C,687700,4877
+Suburbs,Apartment,100,2,2,1988,True,Excellent,C,301300,3013
+Suburbs,Apartment,73,2,2,1962,False,Good,A,218400,2992
+Waterfront,Studio,46,1,1,2003,True,Fair,A,218200,4743
+Suburbs,Apartment,139,3,2,1972,True,Good,C,375800,2704
+Suburbs,Penthouse,176,3,1,2004,False,Excellent,C,905700,5146
+Waterfront,Apartment,109,2,1,1969,False,Good,E,523800,4806
+Waterfront,Penthouse,148,2,1,1995,True,Fair,C,1207700,8160
+Downtown,Apartment,84,2,2,1968,True,Fair,B,313000,3726
+University District,Studio,65,1,1,2013,True,Good,D,240200,3695
+University District,House,126,2,1,2015,True,Fair,B,459700,3648
+Suburbs,Penthouse,262,6,4,2014,True,Good,C,1431900,5465
+University District,Apartment,100,2,1,1986,True,Good,D,270200,2702
+Suburbs,House,129,3,2,1993,True,Fair,E,349400,2709
+Downtown,Penthouse,208,4,2,2010,False,Good,D,1639900,7884
+Waterfront,House,186,4,2,1960,False,Good,D,984100,5291
+Waterfront,House,173,4,2,1991,False,Excellent,D,1006300,5817
+Waterfront,House,91,2,1,1984,True,Fair,E,404500,4445
+University District,House,123,3,2,1988,False,Fair,B,383300,3116
+Downtown,House,141,3,2,1966,False,Fair,A,612500,4344
+University District,House,147,3,2,2008,False,Fair,B,403600,2746
+University District,Penthouse,208,4,2,1962,False,Good,B,953400,4584
+Downtown,Apartment,89,2,1,1979,False,Good,D,398200,4474
+Downtown,Apartment,57,1,1,1979,True,Good,C,286500,5026
+Downtown,Penthouse,197,4,2,2012,True,Excellent,C,1557800,7908
+Downtown,Studio,52,1,1,1989,False,Good,A,300200,5773
+Waterfront,House,171,3,2,1994,False,Needs Renovation,D,564900,3304
+Old Town,House,191,3,1,1994,False,Excellent,C,866000,4534
+Old Town,Apartment,103,1,1,2008,True,Good,D,387600,3763
+Downtown,Apartment,95,2,1,1998,True,Good,C,488300,5140
+Old Town,House,147,2,1,1986,True,Good,C,648000,4408
+Old Town,Apartment,50,1,1,1985,False,Needs Renovation,B,108200,2164
+Downtown,House,166,3,1,1973,True,Good,A,997000,6006
+Old Town,Apartment,89,3,2,1976,True,Good,D,260800,2930
+University District,Penthouse,192,4,2,1977,True,Fair,E,780000,4062
+Suburbs,Penthouse,123,3,2,2004,True,Good,C,655900,5333
+Suburbs,House,109,2,1,2011,False,Good,B,397500,3647
+Downtown,House,189,4,2,1988,False,Good,C,845400,4473
+Waterfront,Apartment,84,2,1,1979,False,Good,D,442100,5263
+Downtown,Studio,53,1,1,2012,True,Needs Renovation,D,149200,2815
+Waterfront,House,151,3,2,1986,False,Fair,B,648300,4293
+Suburbs,Apartment,86,2,1,1977,True,Good,A,297600,3460
+Downtown,Penthouse,222,4,3,1963,False,Fair,D,1191500,5367
+University District,Studio,39,1,1,1960,True,Good,C,136800,3508
+Old Town,Penthouse,184,4,2,2009,True,Excellent,B,1265600,6878
+Waterfront,Studio,40,1,1,1960,False,Good,A,199700,4992
+Old Town,House,134,3,1,2017,False,Good,C,578500,4317
+Old Town,House,138,2,1,1985,True,Good,D,516200,3741
+Downtown,Penthouse,190,4,2,2004,False,Fair,E,954400,5023
+Old Town,Studio,40,1,1,1979,True,Needs Renovation,C,101500,2538
+University District,Apartment,112,3,1,2011,True,Good,C,374500,3344
+Old Town,Apartment,66,2,1,1982,True,Good,A,262600,3979
+Downtown,Apartment,81,2,1,1969,True,Excellent,C,409300,5053
+University District,Studio,40,1,1,2018,True,Excellent,C,179100,4478
+Suburbs,Penthouse,245,5,3,1970,True,Good,C,1254800,5122
+Old Town,Apartment,89,2,1,2000,True,Good,C,343300,3857
+Downtown,House,189,4,2,2000,False,Fair,B,735000,3889
+Suburbs,Apartment,53,1,1,1964,True,Good,A,184900,3489
+Suburbs,Penthouse,192,3,1,2017,False,Excellent,C,1125400,5861
+Waterfront,Studio,55,1,1,1960,True,Good,A,339100,6165
+University District,Studio,46,1,1,1976,False,Good,B,144500,3141
+Old Town,House,190,4,2,1981,True,Excellent,E,843500,4439
+Downtown,House,131,3,2,1993,True,Fair,C,608900,4648
+Waterfront,Apartment,115,3,2,2015,True,Excellent,C,653900,5686
+University District,Apartment,134,3,2,2004,True,Fair,D,346200,2584
+Waterfront,Studio,41,1,1,2000,True,Good,E,235300,5739
+University District,Studio,40,1,1,1988,False,Good,C,110400,2760
+University District,Penthouse,245,4,3,1963,False,Good,D,1228300,5013
+Old Town,Penthouse,251,5,3,1964,False,Fair,C,1160300,4623
+University District,House,130,3,2,2023,False,Good,C,482000,3708
+Waterfront,Studio,40,1,1,1970,True,Fair,C,170900,4272
+University District,Penthouse,167,4,2,2015,True,Excellent,D,906000,5425
+Old Town,Studio,30,1,1,2010,True,Fair,D,106500,3550
+Old Town,Apartment,65,2,1,1980,True,Good,C,213400,3283
+Waterfront,House,112,2,1,1994,True,Fair,B,640800,5721
+Suburbs,Apartment,69,2,1,1971,True,Good,C,194900,2825
+Suburbs,Penthouse,178,4,2,1985,True,Needs Renovation,B,519800,2920
+University District,House,159,3,2,2010,True,Good,C,496400,3122
+Downtown,Apartment,118,2,1,1978,False,Excellent,D,563000,4771
+University District,House,113,2,1,2004,False,Excellent,D,486200,4303
+Waterfront,House,187,4,2,2019,True,Fair,D,899200,4809
+Waterfront,Apartment,80,2,1,1966,False,Good,D,353400,4418
+Waterfront,Apartment,84,2,1,2006,False,Fair,C,356700,4246
+Waterfront,House,175,4,2,2014,True,Good,D,1027500,5871
+Waterfront,House,108,2,1,1966,True,Good,C,595200,5511
+Old Town,Studio,49,1,1,1985,True,Excellent,B,244200,4984
+Suburbs,House,156,3,2,1999,False,Needs Renovation,A,360400,2310
+Waterfront,Studio,51,1,1,1964,False,Fair,B,231800,4545
+Downtown,House,161,2,2,1980,True,Needs Renovation,C,466200,2896
+Downtown,House,242,5,3,1973,True,Good,C,1365800,5644
+Downtown,Studio,38,1,1,1963,True,Fair,D,131000,3447
+Downtown,House,130,3,2,1982,True,Fair,B,507500,3904
+Old Town,Apartment,72,1,1,2001,True,Good,B,288300,4004
+Downtown,Apartment,73,1,1,1979,False,Fair,E,248000,3397
+Waterfront,Studio,38,1,1,1974,False,Needs Renovation,B,131000,3447
+University District,House,195,4,3,2009,False,Fair,C,563100,2888
+Downtown,Studio,61,1,1,2011,False,Fair,C,270900,4441
+Old Town,Apartment,73,1,1,2004,False,Good,C,231000,3164
+Old Town,Apartment,67,1,1,1988,True,Good,A,286600,4278
+Downtown,Apartment,95,2,1,1967,False,Needs Renovation,A,299300,3151
+University District,Apartment,73,1,1,2000,True,Excellent,B,280900,3848
+Downtown,House,174,4,2,2007,False,Fair,C,731100,4202
+Old Town,Apartment,89,2,1,1978,True,Fair,C,244100,2743
+Suburbs,House,93,2,1,2007,False,Fair,B,292200,3142
+Waterfront,Penthouse,250,5,3,1998,True,Needs Renovation,C,1415400,5662
+Old Town,Apartment,123,2,1,2005,True,Good,D,405000,3293
+Downtown,House,127,3,2,1987,True,Good,A,727900,5731
+Waterfront,Studio,41,1,1,2005,True,Excellent,C,312400,7620
+Downtown,Apartment,91,2,2,2016,False,Good,D,392100,4309
+Downtown,House,163,3,2,1986,False,Good,B,927900,5693
+Suburbs,Studio,52,1,1,1963,True,Good,C,149600,2877
+Waterfront,Penthouse,270,5,3,2017,True,Fair,C,1786300,6616
+Waterfront,Apartment,81,2,1,1974,True,Needs Renovation,D,236200,2916
+Suburbs,Penthouse,144,4,2,1994,True,Good,D,651300,4523
+Old Town,House,98,1,1,1996,True,Good,C,355600,3629
+Downtown,Apartment,69,1,1,1960,False,Needs Renovation,D,150700,2184
+University District,House,149,4,3,1962,True,Excellent,C,643500,4319
+Downtown,Penthouse,261,5,3,2006,True,Excellent,C,2527000,9682
+Downtown,House,131,2,1,1983,True,Good,C,706200,5391
+Old Town,Apartment,90,2,1,1986,True,Good,B,300700,3341
+Downtown,House,149,3,1,1999,True,Good,D,649700,4360
+Suburbs,Apartment,110,3,2,2022,False,Needs Renovation,C,190200,1729
+Suburbs,Apartment,139,3,2,2020,True,Good,C,474500,3414
+Waterfront,Apartment,74,1,1,1995,True,Good,E,405400,5478
+University District,Apartment,75,2,1,1993,True,Good,A,260400,3472
+Downtown,Apartment,107,2,1,1988,True,Good,C,437200,4086
+Downtown,Apartment,99,2,1,1983,True,Fair,A,424500,4288
+Old Town,House,219,4,2,1983,False,Fair,D,621600,2838
+Suburbs,Apartment,97,2,1,2001,False,Fair,D,221900,2288
+University District,Apartment,77,2,1,1963,True,Good,C,242800,3153
+Waterfront,Studio,52,1,1,1962,True,Needs Renovation,D,181800,3496
+Suburbs,House,192,4,2,1993,True,Fair,C,482700,2514
+Waterfront,House,181,4,3,2016,True,Fair,D,775500,4285
+Old Town,Apartment,96,2,1,2008,False,Excellent,C,444600,4631
+Old Town,Apartment,108,3,2,1982,False,Excellent,C,381700,3534
+Downtown,Apartment,110,2,1,2012,True,Good,E,413500,3759
+University District,Apartment,114,2,1,2015,True,Fair,B,309700,2717
+Waterfront,Apartment,99,2,1,2011,True,Good,B,497500,5025
+Suburbs,Apartment,81,1,1,1982,False,Good,C,222500,2747
+Old Town,Apartment,88,1,1,2004,False,Fair,E,255600,2905
+Downtown,Apartment,111,3,2,1964,True,Fair,C,395600,3564
+Downtown,House,119,2,1,1990,True,Needs Renovation,A,426100,3581
+Waterfront,Apartment,93,1,1,2021,False,Good,C,527200,5669
+Old Town,Apartment,77,2,1,2012,True,Fair,C,243400,3161
+University District,House,151,3,2,2021,True,Good,B,655900,4344
+Old Town,House,198,4,3,2000,True,Good,D,833300,4209
+Waterfront,Apartment,89,2,1,2016,False,Good,E,364700,4098
+Waterfront,Studio,46,1,1,2020,True,Good,C,295400,6422
+Old Town,House,99,1,1,2016,True,Good,C,402100,4062
+Waterfront,Apartment,101,3,1,2019,False,Fair,C,528300,5231
+Old Town,Studio,52,1,1,2013,True,Excellent,B,243800,4688
+Suburbs,Penthouse,277,5,3,1965,True,Fair,D,1183100,4271
+Old Town,Apartment,78,2,2,1996,True,Good,C,302400,3877
+Old Town,Apartment,90,2,2,2016,True,Good,C,310900,3454
+Waterfront,Studio,48,1,1,1969,False,Good,D,236700,4931
+Waterfront,Studio,63,2,1,1999,True,Good,C,412500,6548
+Downtown,Apartment,83,1,1,1966,True,Good,C,406200,4894
+Downtown,Apartment,91,2,1,1998,True,Good,A,413600,4545
+Suburbs,Apartment,98,2,1,1997,False,Good,D,288800,2947
+Downtown,House,157,3,2,1980,False,Excellent,E,737500,4697
+Old Town,House,133,3,2,2020,True,Good,C,469100,3527
+Waterfront,Apartment,89,2,1,1979,True,Needs Renovation,E,264500,2972
+Downtown,House,190,4,2,1962,False,Good,B,843600,4440
+Downtown,Studio,33,1,1,2023,True,Fair,C,158700,4809
+Suburbs,Apartment,88,2,1,2010,False,Fair,C,212900,2419
+Suburbs,Apartment,70,1,1,1981,False,Needs Renovation,C,141600,2023
+Old Town,Studio,58,1,1,2006,False,Fair,C,153800,2652
+Waterfront,Studio,28,1,1,1963,True,Good,C,140500,5018
+Suburbs,House,129,3,1,1987,True,Fair,B,351600,2726
+Downtown,House,164,3,2,1971,False,Fair,C,599800,3657
+Waterfront,Apartment,118,2,2,1997,True,Good,B,583800,4947
+Waterfront,House,148,3,2,2010,True,Good,D,777000,5250
+Downtown,House,129,3,1,2022,False,Excellent,B,814500,6314
+Suburbs,Apartment,125,3,2,1995,False,Fair,A,318900,2551
+Downtown,Apartment,54,1,1,2006,True,Fair,C,213500,3954
+Waterfront,Apartment,38,1,1,2000,True,Excellent,C,229100,6029
+University District,Apartment,94,2,2,1964,True,Good,D,302900,3222
+University District,Apartment,74,2,1,1972,False,Good,C,244800,3308
+Old Town,Apartment,63,1,1,1982,False,Excellent,C,241500,3833
+Downtown,Apartment,100,3,2,2017,True,Needs Renovation,D,285200,2852
+Downtown,Apartment,90,2,2,2009,True,Good,C,380700,4230
+Old Town,Studio,39,1,1,1989,False,Excellent,A,199200,5108
+Old Town,House,102,2,1,2021,True,Good,C,367200,3600
+Old Town,House,183,4,2,1996,True,Fair,E,521000,2847
+Waterfront,Studio,52,1,1,1984,False,Excellent,C,296700,5706
+Downtown,House,146,2,1,2007,True,Fair,B,648000,4438
+Waterfront,Apartment,124,3,2,1986,False,Good,B,591200,4768
+Old Town,House,110,2,1,2010,True,Excellent,B,585900,5326
+Downtown,House,93,2,1,1973,True,Good,C,406500,4371
+Waterfront,Studio,37,1,1,2016,False,Good,C,215800,5832
+Waterfront,House,148,3,2,2021,True,Good,A,898400,6070
+Old Town,Apartment,90,2,1,2007,False,Needs Renovation,E,160600,1784
+Downtown,Apartment,80,2,1,2018,True,Fair,D,353600,4420
+Old Town,Apartment,92,3,2,2006,True,Needs Renovation,C,199000,2163
+Downtown,House,103,2,1,2013,True,Good,D,570100,5535
+University District,House,204,5,3,1995,True,Needs Renovation,A,526100,2579
+Suburbs,Apartment,83,2,1,1998,True,Good,C,222800,2684
+Suburbs,Penthouse,230,4,3,1975,True,Good,C,1230500,5350
+Suburbs,House,163,4,2,2015,True,Excellent,D,573800,3520
+Old Town,Apartment,95,2,2,1981,True,Excellent,D,402600,4238
+University District,Apartment,97,2,2,1980,False,Fair,B,233500,2407
+Downtown,Apartment,95,2,1,2013,False,Good,E,435200,4581
+Waterfront,Apartment,99,2,1,1980,False,Good,B,443100,4476
+Downtown,Apartment,113,2,1,1967,True,Fair,D,405600,3589
+Waterfront,Apartment,89,2,1,2008,True,Good,E,478200,5373
+Downtown,Apartment,100,2,1,1975,False,Good,B,508600,5086
+University District,Apartment,83,1,1,2018,True,Good,D,298800,3600
+Waterfront,Studio,61,1,1,2014,True,Fair,A,366500,6008
+Old Town,Apartment,71,2,1,1990,False,Fair,C,228500,3218
+Downtown,House,218,5,3,2001,False,Good,C,982000,4505
+Downtown,House,148,2,1,1969,True,Good,C,677000,4574
+Waterfront,Penthouse,116,2,2,1991,True,Good,E,837500,7220
+Old Town,Apartment,88,2,1,2018,False,Fair,D,244400,2777
+Old Town,Apartment,71,1,1,1993,True,Good,C,246200,3468
+University District,Penthouse,218,4,3,2022,False,Good,D,1087000,4986
+Old Town,Studio,38,1,1,2021,False,Excellent,E,133100,3503
+Old Town,Studio,40,1,1,1968,False,Good,A,158800,3970
+Old Town,Apartment,45,1,1,1976,True,Good,E,126400,2809
+Suburbs,Apartment,75,1,1,1970,True,Fair,A,192700,2569
+University District,House,59,1,1,1991,False,Good,D,188800,3200
+Downtown,Penthouse,109,2,1,1969,False,Good,B,844500,7748
+Waterfront,House,179,3,2,1981,False,Fair,B,942100,5263
+Downtown,House,179,4,2,2016,True,Fair,C,848400,4740
+University District,Apartment,94,2,1,1976,True,Good,C,263100,2799
+Waterfront,Studio,34,1,1,1963,False,Good,C,174800,5141
+University District,Apartment,84,2,1,2007,False,Good,A,255100,3037
+Old Town,Apartment,85,2,1,2011,False,Needs Renovation,C,187700,2208
+Waterfront,House,107,3,2,2006,False,Excellent,E,622000,5813
+Old Town,House,206,4,3,1984,True,Needs Renovation,C,447000,2170
+Downtown,Apartment,104,1,1,2018,False,Fair,B,401700,3862
+Downtown,Apartment,80,1,1,1980,False,Good,C,393400,4918
+Waterfront,House,151,4,3,1996,True,Excellent,A,1289700,8541
+Waterfront,Apartment,89,2,1,1997,False,Good,D,416600,4681
+University District,House,73,2,1,2008,True,Good,D,218200,2989
+University District,Apartment,80,1,1,1960,True,Good,C,218600,2732
+Old Town,House,124,3,2,2022,False,Fair,C,403500,3254
+Waterfront,House,112,3,2,1984,True,Needs Renovation,D,455800,4070
+Downtown,Apartment,79,2,2,2010,True,Good,C,338700,4287
+University District,Apartment,123,3,2,1995,True,Fair,D,346800,2820
+University District,Apartment,99,2,1,1976,True,Excellent,C,313600,3168
+Downtown,Apartment,73,2,1,2000,True,Good,D,374400,5129
+University District,Penthouse,206,4,2,2022,True,Excellent,C,1242600,6032
+Old Town,Apartment,115,3,2,1983,False,Fair,C,354200,3080
+Waterfront,Studio,55,1,1,1961,True,Needs Renovation,E,162600,2956
+Downtown,Apartment,86,1,1,1999,True,Fair,C,357400,4156
+Waterfront,House,126,3,2,1974,True,Excellent,C,749500,5948
+University District,Studio,53,1,1,1991,False,Good,B,159700,3013
+University District,House,165,3,2,1998,True,Good,C,668200,4050
+Downtown,House,184,4,2,2018,False,Good,C,1057400,5747
+Old Town,House,174,4,2,1965,False,Fair,B,616300,3542
+Suburbs,Apartment,107,2,1,1960,False,Fair,A,282400,2639
+Downtown,Penthouse,156,4,3,2006,True,Fair,C,1105600,7087
+Suburbs,Studio,60,1,1,1982,False,Good,D,148000,2467
+Suburbs,Penthouse,189,4,2,2017,True,Good,C,914400,4838
+Old Town,Apartment,129,2,1,1998,False,Excellent,B,506400,3926
+Suburbs,Studio,37,1,1,2020,False,Good,D,117000,3162
+Suburbs,Penthouse,258,5,3,2021,True,Good,A,1392200,5396
+Old Town,Apartment,89,2,1,2016,True,Fair,C,252800,2840
+Suburbs,Apartment,71,2,1,1976,True,Fair,B,192200,2707
+Suburbs,Studio,40,1,1,1993,False,Excellent,B,160900,4022
+Suburbs,House,138,2,1,2018,True,Good,B,490100,3551
+Downtown,Studio,50,2,1,2000,True,Good,C,220300,4406
+Downtown,Apartment,96,2,1,1988,True,Good,A,442800,4612
+Downtown,Studio,39,1,1,1968,False,Fair,C,135500,3474
+Old Town,Apartment,84,2,2,1972,False,Excellent,C,297500,3542
+University District,Apartment,131,2,1,1965,False,Good,C,397400,3034
+Suburbs,Apartment,122,2,1,1965,False,Good,C,345300,2830
+Suburbs,Studio,50,1,1,1979,True,Fair,D,133100,2662
+Old Town,House,151,4,3,2011,True,Good,B,619100,4100
+Suburbs,House,155,4,3,2012,False,Good,C,561800,3625
+Downtown,Apartment,98,2,1,1962,True,Good,A,430800,4396
+University District,Studio,33,1,1,1976,True,Fair,A,100200,3036
+Waterfront,Apartment,80,2,1,2022,True,Needs Renovation,C,321200,4015
+Suburbs,Studio,26,1,1,2008,True,Good,C,77300,2973
+Downtown,House,165,3,2,1971,True,Fair,D,577700,3501
+Waterfront,Apartment,99,2,1,2007,False,Needs Renovation,C,376800,3806
+University District,House,132,2,2,2006,True,Needs Renovation,E,267300,2025
+Waterfront,Apartment,118,2,2,2004,True,Fair,A,638400,5410
+Downtown,Studio,31,1,1,2014,True,Fair,A,126300,4074
+Waterfront,House,95,2,1,2023,False,Good,A,656700,6913
+Old Town,Apartment,90,1,1,1960,True,Fair,B,255000,2833
+Waterfront,Studio,57,1,1,1976,False,Good,C,257000,4509
+Suburbs,Apartment,121,2,1,1962,False,Fair,C,290100,2398
+Suburbs,House,133,3,2,1985,True,Good,A,445100,3347
+Old Town,Penthouse,229,5,3,1974,False,Fair,E,890800,3890
+Downtown,House,149,3,2,1995,False,Fair,D,515000,3456
+Suburbs,Apartment,81,1,1,1991,False,Excellent,B,252600,3119
+University District,Penthouse,220,5,3,1991,False,Fair,A,945600,4298
+Suburbs,House,174,3,2,2023,True,Good,B,566800,3257
+Suburbs,Apartment,52,1,1,1963,True,Fair,B,149800,2881
+Downtown,Apartment,116,3,2,1977,True,Good,B,468600,4040
+Waterfront,Studio,61,2,1,2008,True,Good,C,352100,5772
+Suburbs,House,127,2,1,1978,False,Needs Renovation,B,238300,1876
+Old Town,House,165,3,2,2002,True,Good,C,622900,3775
+Waterfront,Studio,51,1,1,2011,False,Fair,E,244400,4792
+University District,Studio,48,1,1,1994,False,Good,D,132300,2756
+Downtown,Apartment,73,1,1,1999,False,Good,E,335800,4600
+University District,Apartment,71,2,1,1973,False,Good,B,200800,2828
+Waterfront,Apartment,84,2,1,2017,True,Good,C,505800,6021
+Waterfront,Studio,58,1,1,1992,True,Good,C,331200,5710
+Waterfront,Apartment,97,3,2,1973,True,Excellent,A,707700,7296
+University District,House,136,3,2,1993,True,Good,A,539100,3964
+Waterfront,Studio,54,1,1,2020,True,Excellent,D,353300,6543
+University District,Studio,25,1,1,2014,True,Needs Renovation,C,51900,2076
+Waterfront,Apartment,109,1,1,1963,False,Needs Renovation,C,307900,2825
+Old Town,Studio,25,1,1,1983,True,Good,C,103800,4152
+Waterfront,Apartment,77,2,1,2018,True,Fair,C,349100,4534
+University District,Studio,32,1,1,1988,False,Good,A,108100,3378
+Suburbs,Apartment,57,1,1,1978,True,Fair,C,154500,2711
+Waterfront,Apartment,110,2,1,1965,True,Fair,B,475600,4324
+Suburbs,Studio,40,1,1,2016,False,Needs Renovation,A,103100,2578
+Old Town,Apartment,92,2,1,1992,False,Good,E,302000,3283
+Downtown,Apartment,84,2,1,2008,False,Fair,C,335100,3989
+Old Town,Studio,50,1,1,1999,True,Good,D,201300,4026
+Waterfront,Studio,46,1,1,1978,False,Needs Renovation,C,135000,2935
+Suburbs,House,102,1,1,2012,False,Excellent,C,359200,3522
+Suburbs,House,187,4,2,1960,True,Fair,B,518800,2774
+University District,House,131,3,2,1964,False,Fair,A,359100,2741
+Suburbs,Apartment,52,1,1,1986,False,Fair,B,142500,2740
+University District,Apartment,76,2,2,1975,True,Excellent,D,291100,3830
+Downtown,Apartment,117,2,1,1965,True,Needs Renovation,D,311400,2662
+Waterfront,Penthouse,218,4,2,1999,False,Good,C,1719400,7887
+University District,House,137,3,2,1972,False,Fair,C,430100,3139
+Downtown,House,137,3,2,2007,True,Good,E,637400,4653
+Suburbs,House,138,2,1,2023,False,Good,A,509700,3693
+Suburbs,Penthouse,273,5,2,2021,True,Good,B,1404300,5144
+Downtown,Apartment,93,2,1,1994,True,Good,C,487200,5239
+Suburbs,House,166,4,2,1978,True,Good,D,523900,3156
+Downtown,House,189,4,2,1971,False,Good,E,858100,4540
+University District,House,159,3,2,1975,False,Good,B,595700,3747
+University District,Apartment,79,1,1,2018,True,Fair,D,205100,2596
+Downtown,Studio,43,1,1,2002,True,Fair,D,169200,3935
+University District,Penthouse,177,3,2,1969,True,Excellent,B,1162800,6569
+University District,House,149,2,1,1984,False,Good,C,474400,3184
+University District,House,177,4,3,1979,False,Excellent,C,728400,4115
+Old Town,Penthouse,182,4,2,1990,False,Excellent,E,1157600,6360
+Waterfront,Studio,53,1,1,1963,False,Fair,B,248700,4692
+Suburbs,Apartment,83,1,1,2003,False,Fair,D,212300,2558
+Old Town,House,153,3,2,1982,True,Good,C,644400,4212
+University District,House,75,2,1,1961,True,Good,D,262100,3495
+Downtown,House,184,4,2,2015,True,Excellent,C,1093000,5940
+University District,Studio,49,1,1,1981,False,Fair,C,113600,2318
+Waterfront,Penthouse,225,4,3,2010,False,Needs Renovation,D,1139200,5063
+University District,Penthouse,50,2,1,2016,True,Excellent,D,309200,6184
+Downtown,House,228,4,2,1996,False,Good,D,1046700,4591
+Waterfront,Apartment,82,1,1,1967,True,Fair,A,421100,5135
+University District,Penthouse,230,4,2,1966,True,Needs Renovation,D,665600,2894
+Waterfront,Studio,33,1,1,1973,False,Good,B,186400,5648
+Suburbs,Apartment,98,2,1,2015,False,Excellent,C,308300,3146
+Suburbs,Penthouse,133,3,2,2014,False,Excellent,C,792700,5960
+University District,Studio,38,1,1,1962,True,Good,C,122800,3232
+Waterfront,House,222,4,3,2009,True,Good,C,1231400,5547
+Downtown,House,143,3,2,1975,False,Excellent,E,654000,4573
+University District,Apartment,90,1,1,2014,True,Good,B,340200,3780
+Suburbs,Apartment,103,2,1,1978,True,Excellent,D,331200,3216
+Suburbs,Apartment,96,2,1,2010,False,Fair,C,223300,2326
+University District,Studio,47,1,1,1977,True,Good,B,184700,3930
+Waterfront,Apartment,93,3,2,2011,False,Excellent,B,632300,6799
+Suburbs,Apartment,136,3,2,1975,False,Good,E,389900,2867
+Waterfront,Apartment,84,1,1,1967,True,Good,D,398900,4749
+Suburbs,House,158,3,1,2019,True,Needs Renovation,E,322200,2039
+Suburbs,Penthouse,227,5,3,1992,False,Good,E,1059000,4665
+Old Town,Apartment,108,2,2,2008,False,Good,B,400700,3710
+Suburbs,Apartment,110,2,1,1971,False,Fair,C,276100,2510
+Downtown,Studio,52,1,1,2021,False,Good,D,224100,4310
+University District,House,107,2,1,2012,False,Needs Renovation,C,239400,2237
+University District,Apartment,120,3,2,1970,False,Good,C,312700,2606
+Waterfront,House,107,3,2,1964,True,Good,C,545200,5095
+Suburbs,Apartment,91,2,1,1986,True,Excellent,C,267300,2937
+Downtown,Apartment,69,2,2,1971,True,Good,C,265400,3846
+Waterfront,House,148,3,2,1976,True,Fair,B,864000,5838
+Old Town,House,162,4,3,1965,True,Fair,C,474300,2928
+Waterfront,Penthouse,194,4,3,1992,True,Good,C,1746100,9001
+Waterfront,Apartment,94,2,1,1964,False,Good,C,501100,5331
+Suburbs,House,211,4,3,2016,True,Fair,B,667900,3165
+Old Town,House,167,4,3,1987,True,Needs Renovation,D,359900,2155
+Waterfront,Apartment,80,1,1,1973,True,Excellent,A,559100,6989
+Downtown,House,186,4,2,1964,True,Good,C,927900,4989
+Downtown,Apartment,110,2,1,2013,True,Good,D,539900,4908
+University District,Penthouse,125,3,2,2015,True,Fair,C,616800,4934
+Old Town,Apartment,98,3,1,2018,True,Excellent,B,507000,5173
+Old Town,House,176,3,1,1992,False,Good,D,640000,3636
+University District,Apartment,79,2,1,2021,False,Fair,C,206700,2616
+Waterfront,Penthouse,242,5,3,2009,False,Excellent,D,2328800,9623
+Old Town,House,144,3,2,2007,False,Good,D,458600,3185
+Downtown,House,155,3,2,2000,True,Good,C,900200,5808
+Downtown,Apartment,81,1,1,1978,False,Good,C,309200,3817
+Suburbs,Studio,45,1,1,1981,False,Good,B,133400,2964
+Old Town,Apartment,62,1,1,1964,True,Good,B,241400,3894
+Waterfront,Studio,29,1,1,2018,False,Good,C,167900,5790
+University District,Apartment,119,3,2,1961,True,Good,C,349100,2934
+University District,Apartment,67,2,1,1989,False,Fair,C,172100,2569
+Waterfront,Apartment,64,2,1,2006,False,Fair,B,331200,5175
+Suburbs,House,69,2,2,1998,True,Good,A,244300,3541
+University District,House,126,3,2,1963,False,Excellent,C,513000,4071
+Old Town,Apartment,57,1,1,1992,False,Good,B,178600,3133
+Suburbs,Studio,63,1,1,1972,False,Good,D,189600,3010
+Old Town,House,188,4,2,1979,True,Good,A,876100,4660
+Downtown,House,124,3,2,2013,False,Fair,C,482500,3891
+Suburbs,House,234,5,3,1966,True,Excellent,E,753900,3222
+University District,House,187,3,2,1974,True,Excellent,B,694700,3715
+Suburbs,House,138,3,2,1982,True,Good,C,480700,3483
+Suburbs,Apartment,32,1,1,1973,False,Fair,A,84400,2638
+Suburbs,Apartment,134,3,2,1982,False,Good,C,396000,2955
+Suburbs,Studio,29,1,1,1978,False,Fair,C,66300,2286
+Old Town,Penthouse,106,2,2,2023,False,Good,C,558300,5267
+Downtown,Apartment,107,3,2,2013,True,Fair,C,378900,3541
+Waterfront,Apartment,137,3,1,1988,True,Fair,D,557400,4069
+Suburbs,House,202,4,2,2015,True,Good,B,752900,3727
+University District,House,171,3,1,1979,True,Good,A,719200,4206
+Suburbs,Apartment,98,2,1,1988,True,Good,D,294800,3008
+University District,Apartment,103,2,1,1983,True,Good,C,319500,3102
+Old Town,Studio,54,1,1,1977,True,Fair,D,180700,3346
+University District,House,161,3,2,2022,True,Fair,C,545300,3387
+Waterfront,Apartment,87,2,1,1969,True,Fair,D,407000,4678
+Downtown,Apartment,84,1,1,2000,True,Fair,C,339600,4043
+University District,Apartment,69,2,1,2016,False,Good,D,194700,2822
+University District,House,139,3,2,1967,False,Good,E,348000,2504
+Downtown,Apartment,49,1,1,1985,False,Fair,C,194300,3965
+Waterfront,Apartment,83,2,1,2021,True,Good,B,436800,5263
+Suburbs,Studio,34,1,1,1988,True,Fair,B,90400,2659
+University District,Apartment,62,1,1,1969,False,Good,B,192700,3108
+Downtown,House,157,3,2,1976,True,Excellent,B,958200,6103
+Old Town,Apartment,115,2,1,1961,True,Needs Renovation,C,259300,2255
+Downtown,Apartment,105,2,1,1965,True,Good,C,416800,3970
+Old Town,Apartment,52,1,1,2017,True,Needs Renovation,C,122000,2346
+Waterfront,Studio,34,1,1,1964,True,Needs Renovation,C,122000,3588
+Suburbs,Studio,56,2,2,1987,True,Fair,C,171700,3066
+Downtown,Studio,34,1,1,2021,False,Fair,A,166400,4894
+University District,Apartment,80,2,1,2000,True,Good,A,323800,4048
+Waterfront,House,171,4,2,1964,True,Fair,B,920000,5380
+Downtown,Apartment,64,1,1,1977,False,Good,C,282900,4420
+University District,Apartment,87,2,1,1985,True,Good,B,263300,3026
+Downtown,Studio,30,1,1,1979,True,Fair,B,133800,4460
+Old Town,Apartment,72,2,2,2000,False,Good,C,258000,3583
+Downtown,Apartment,92,1,1,2008,True,Good,D,431300,4688
+Downtown,Apartment,51,1,1,1986,True,Good,A,257000,5039
+Downtown,Apartment,94,3,2,2008,True,Good,C,453900,4829
